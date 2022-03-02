@@ -1,5 +1,5 @@
 .container {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 
 }
 .bg-carr {
@@ -22,4 +22,20 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: lightblue;
+}
+
+.cat1,.cat2,.cat3 {
+    padding: 10px 30px;
 }
