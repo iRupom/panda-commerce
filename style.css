@@ -59,3 +59,15 @@
     background-color: white;
     border-top: none;
 }
+
+#subscribe {
+    height: 300px;
+}
+
+#subscribe h5 {
+    color: #ff5898;
+}
+
+footer {
+    text-align: center;
+}
